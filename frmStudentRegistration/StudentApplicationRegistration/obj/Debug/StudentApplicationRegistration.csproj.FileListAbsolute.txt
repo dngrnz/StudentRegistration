@@ -1,0 +1,10 @@
+C:\Users\STI-ADMIN\Source\Repos\frmStudentRegistration\StudentApplicationRegistration\bin\Debug\StudentApplicationRegistration.exe.config
+C:\Users\STI-ADMIN\Source\Repos\frmStudentRegistration\StudentApplicationRegistration\bin\Debug\StudentApplicationRegistration.exe
+C:\Users\STI-ADMIN\Source\Repos\frmStudentRegistration\StudentApplicationRegistration\bin\Debug\StudentApplicationRegistration.pdb
+C:\Users\STI-ADMIN\Source\Repos\frmStudentRegistration\StudentApplicationRegistration\obj\Debug\StudentApplicationRegistration.csproj.AssemblyReference.cache
+C:\Users\STI-ADMIN\Source\Repos\frmStudentRegistration\StudentApplicationRegistration\obj\Debug\StudentApplicationRegistration.Form1.resources
+C:\Users\STI-ADMIN\Source\Repos\frmStudentRegistration\StudentApplicationRegistration\obj\Debug\StudentApplicationRegistration.Properties.Resources.resources
+C:\Users\STI-ADMIN\Source\Repos\frmStudentRegistration\StudentApplicationRegistration\obj\Debug\StudentApplicationRegistration.csproj.GenerateResource.cache
+C:\Users\STI-ADMIN\Source\Repos\frmStudentRegistration\StudentApplicationRegistration\obj\Debug\StudentApplicationRegistration.csproj.CoreCompileInputs.cache
+C:\Users\STI-ADMIN\Source\Repos\frmStudentRegistration\StudentApplicationRegistration\obj\Debug\StudentApplicationRegistration.exe
+C:\Users\STI-ADMIN\Source\Repos\frmStudentRegistration\StudentApplicationRegistration\obj\Debug\StudentApplicationRegistration.pdb
